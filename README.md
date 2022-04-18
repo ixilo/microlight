@@ -7,9 +7,7 @@ used alt late.js https://github.com/00-59/late.js-68-00-59
 
 ![preview](http://asvd.github.io/microlight/microlight-preview-big.png)
 
-For demos and usage guide, refer to https://asvd.github.io/microlight
+forked from https://asvd.github.io/microlight with MIT license
 
 --
-
-Follow me on twitter: https://twitter.com/asvd0
 
